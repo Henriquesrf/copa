@@ -14,51 +14,6 @@ body {
     font-size: large;
 }
 
-
-#titulo_selecao {
-    color: white;
-}
-
-#titulo_pontos {
-    color: white;
-}
-
-#titulo_vitorias {
-    color: white;
-}
-
-#titulo_argentina {
-    color: white;
-}
-
-#titulo_43 {
-    color: white;
-}
-
-#titulo_12 {
-    color: white;
-}
-
-#titulo_franca {
-    color: white;
-}
-
-#titulo_38 {
-    color: white;
-}
-
-#titulo_8 {
-    color: white;
-}
-
-#titulo_brasil {
-    color: white;
-}
-
-#titulo_30 {
-    color: white;
-}
-
-#titulo_6 {
+.texto-branco {
     color: white;
 }
